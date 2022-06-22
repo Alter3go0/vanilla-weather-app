@@ -23,6 +23,7 @@ li {
   text-transform: capitalize;
 }
 .weather-app {
+  background-color: #cee4f1;
   max-width: 600px;
   margin: 0 auto;
   margin-top: 30px;
@@ -55,5 +56,7 @@ li {
 }
 .footer {
   font-size: 13px;
+  font-weight: bold;
   line-height: 30px;
+  text-decoration: none;
 }
